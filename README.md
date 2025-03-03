@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Fancy seeing you here! 👀 
 
 I'm Vanessa, a software engineer with a background in **marketing and sales** who recently graduated from BrainStation Bootcamp. During the program, I developed skills in **HTML, CSS, JavaScript, Node.js, and React.js**.  
 
