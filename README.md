@@ -9,7 +9,7 @@ I'm Vanessa, a software engineer with a background in **marketing and sales** wh
 ✅ Secure payment option to support business transactions  
 ```
 
-🌱 Currently learning **Ruby on Rails** to expand my skill set and take on new challenges in web development.  
+🌱 Currently learning **PHP & Ruby on Rails** to expand my skill set and take on new challenges in web development.  
 
 💡 My background in **marketing and sales** gives me a unique perspective on user experience, business growth, and data-driven decision-making.  
 
